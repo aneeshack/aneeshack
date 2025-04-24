@@ -4,6 +4,8 @@
 
 # Hi 👋, I'm ANEESHA C K
 
+<img src="https://github.com/aneeshack/aneeshack/blob/main/banner.png" alt="banner" width="100%">
+
 I'm a self-taught full-stack developer specializing in the **MERN stack**.
 
 - 🌱 I’m learning Node.js & MongoDB
@@ -17,17 +19,4 @@ I'm a self-taught full-stack developer specializing in the **MERN stack**.
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" />
 </a>
 
-<!--
-**aneeshack/aneeshack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
