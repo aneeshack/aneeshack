@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-# Aneesha
-<img src="https://github.com/aneeshack/aneeshack/blob/main/banner.png" alt="banner" width="100%">
+
 
 # Hi 👋, I'm ANEESHA C K
 
