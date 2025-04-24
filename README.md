@@ -4,8 +4,6 @@
 
 # Hi 👋, I'm ANEESHA C K
 
-<img src="https://github.com/aneeshack/aneeshack/blob/main/banner.png" alt="banner" width="100%">
-
 I'm a self-taught full-stack developer specializing in the **MERN stack**.
 
 - 🌱 I’m learning Node.js & MongoDB
