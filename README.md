@@ -1,12 +1,3 @@
-## Hi there 👋
-
-![Profile views](https://komarev.com/ghpvc/?username=aneeshack&color=blue)
-
-
-<a href="https://www.buymeacoffee.com/aneeshack" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" />
-</a>
-
 # Hi 👋, I'm ANEESHA C K
 
 I'm a **Full Stack MERN Developer with 2+ years of hands-on professional experience**, specializing in building scalable and user-friendly web applications.
@@ -45,4 +36,12 @@ GraphQL · REST API · WebSocket · Socket.IO · Firebase · AWS · Docker · Ng
 * 🌐 Portfolio: https://aneeshack.github.io/aneesha-s-portfolio/
 
 > Note: Professional projects I have worked on are private/confidential, so my GitHub primarily contains personal and open-source projects.
+
+
+![Profile views](https://komarev.com/ghpvc/?username=aneeshack&color=blue)
+
+
+<a href="https://www.buymeacoffee.com/aneeshack" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" />
+</a>
 
