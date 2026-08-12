@@ -33,7 +33,7 @@ GraphQL · REST API · WebSocket · Socket.IO · Firebase · AWS · Docker · Ng
 
 * 📧 Email: [aneeshack08@gmail.com](mailto:aneeshack08@gmail.com)
 * 💼 GitHub: https://github.com/aneeshack
-* 🌐 Portfolio: https://aneeshack.github.io/aneesha-s-portfolio/
+* 🌐 Portfolio: [https://aneeshack.github.io/aneesha-s-portfolio/](https://aneeshack.github.io/Mernstack_portfolio/)
 
 > Note: Professional projects I have worked on are private/confidential, so my GitHub primarily contains personal and open-source projects.
 
